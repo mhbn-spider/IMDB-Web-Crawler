@@ -1,0 +1,5 @@
+selenium==3.141.0
+pandas~=0.23.4
+pymongo~=3.10.0
+xvfbwrapper
+pyvirtualdisplay~=0.2.5
